@@ -1,0 +1,5 @@
+<resources>
+    <!--标题栏以及相关高度-->
+    <dimen name="title_tab_height">60sp</dimen>
+    <dimen name="title_tab_header_height">61sp</dimen>
+</resources>
