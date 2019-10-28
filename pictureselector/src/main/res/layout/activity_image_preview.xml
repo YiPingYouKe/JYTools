@@ -6,7 +6,7 @@
 
     <include layout="@layout/photopicker_toolbar" />
 
-    <com.jack.yang.pictureselector.widget.ViewPagerFixed
+    <com.jy.framework.pictureselector.widget.ViewPagerFixed
         android:id="@+id/vp_photos"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
